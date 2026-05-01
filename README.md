@@ -1,2 +1,6 @@
-# DreamStar-Server
-A Minecraft Server with Netease
+# 举报前务必知悉
+此举报系统仅在原举报系统不可用的情况下使用，非必要请在
+http://107.172.231.70:42339/
+举报
+由于此举报系统基于Github，请登录Github以使用此举报系统
+by 弘九honjiu
